@@ -1,8 +1,0 @@
-StudentName = input("Please enter your first name: ")
-#print (StudentName.capitalize())
-#print (StudentName.find('fox'))
-#print (StudentName.upper())
-#print (StudentName.isupper())
-#print (StudentName.islower())
-#print (StudentName.count('o'))
-print (StudentName.replace('é','e'))
